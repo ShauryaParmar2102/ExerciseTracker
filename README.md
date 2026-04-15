@@ -59,6 +59,7 @@ This will install all required packages and create the node_modules folder.
 Run the following command:
 
 npm run start
+
 4️⃣ Open the App
 
 Open your browser and go to:
