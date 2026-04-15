@@ -7,7 +7,7 @@
 - ➕ Add new exercises (name, type, duration)
 - 📋 View all exercises
 - 🔍 Search exercises by name or type
-- 🗂️ Filter exercises by type (e.g. Cardio, Strength, Golf, Cycling)
+- 🗂️ Filter exercises by type (Cardio, Strength)
 - 🗑️ Delete exercises
 - 💾 Data stored using a JSON file (no database required)
 ---
