@@ -33,7 +33,7 @@ How to Download and Run the Project
 
 ## Screenshot
 
-<img width="1898" height="872" alt="Screenshot 2026-04-15 220321" src="https://github.com/user-attachments/assets/c052a5dd-f231-493f-b705-9e71cd9214ad" />
+<img width="1902" height="870" alt="Screenshot 2026-04-16 104221" src="https://github.com/user-attachments/assets/5ef69314-ffea-4c17-ab97-6d9f53313499" />
 
 
 ---
