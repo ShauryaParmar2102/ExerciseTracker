@@ -8,7 +8,7 @@
 - 📋 View all exercises
 - 🔍 Search exercises by name or type
 - 🗂️ Filter exercises by type (Cardio, Strength)
-- ✏️ Edit exercise name
+- ✏️ Edit exercise name (updates displayed card)
 - 🗑️ Delete exercises
 - 💾 Data stored using a JSON file (no database required)
 ---
