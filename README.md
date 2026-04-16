@@ -10,6 +10,7 @@
 - 🗂️ Filter exercises by type (Cardio, Strength)
 - 🗑️ Delete exercises
 - 💾 Data stored using a JSON file (no database required)
+- ✏️ Edit exercise name
 ---
 
 ## 🧠 Tech Stack
