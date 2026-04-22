@@ -75,4 +75,4 @@ http://localhost:3030
 ## ☀️ Credits:
 ---
 
-🌞 Inspiration from Nivedita Parmar
+🌞 Inspired by Nivedita Parmar’s CRUD project structure pattern
